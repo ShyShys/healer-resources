@@ -10,7 +10,7 @@ You can find stat tiers here: <http://allaganstudies.akhmorning.com/stats/>
 
 
 
-````````````````````````````````
+-----------------------------
 
 
 
@@ -48,7 +48,7 @@ For your own gear comparisons I recommend using the combined Healer Gear Planner
 
 
 
-```````````````````
+-----------------------------
 
 ``` ```
  **ULTIMATE SETS**
@@ -70,7 +70,7 @@ This set sims out slightly higher than the 2.40 sps relic, however I know most p
 
 
 
-```````````````````
+-----------------------------
 
 
 

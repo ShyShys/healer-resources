@@ -12,7 +12,7 @@ The Swift Opener is better for personal dps if done correctly, not necessarily b
 <https://shyshys.github.io/healer-resources/resources/sch_ew_swift_opener.png>
 
 
-``````````````
+-----------------------------
 
 
 

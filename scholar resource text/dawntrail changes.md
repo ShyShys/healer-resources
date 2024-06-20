@@ -26,7 +26,7 @@
 
 
 
-``````````
+-----------------------------
 
 
 
@@ -39,7 +39,7 @@ The reduction of Recitation's cooldown to 60 second can easily allow for more us
 
 
 
-``````````
+-----------------------------
 
 
 
@@ -50,7 +50,7 @@ The reduction of Recitation's cooldown to 60 second can easily allow for more us
 Seraphism conflicts with Dissipation meaning you can't activate Seraphism while your fairy is away and you can't Dissipate while Seraphism is active. Dissipation now locks scholar out of even more of its toolkit which can cause problems and must be adjusted around.
 
 
-```````
+-----------------------------
 
 
 # :bceStare:  **What are some thoughts about the new Scholar**
