@@ -30,7 +30,7 @@
 
 
 
-
+:blank:
 # :bceHatBFit: **What do these changes mean for Scholar?**
 
 Scholar in Dawntrail is simply a better version of itself in Endwalker. Seraphishm fills two major holes in scholars kit, total healing throughput and healing while moving; giving access to instant heals/shields and effectively a 20% healing boost to GCD healing, scholar can now better handle extreme healing checks, especially during high movement mechanics. 
@@ -44,7 +44,7 @@ The reduction of Recitation's cooldown to 60 second can easily allow for more us
 
 
 
-
+:blank:
 # :bceCoolShades:  **Does this make things harder on us**
 
 Seraphism conflicts with Dissipation meaning you can't activate Seraphism while your fairy is away and you can't Dissipate while Seraphism is active. Dissipation now locks scholar out of even more of its toolkit which can cause problems and must be adjusted around.
@@ -52,7 +52,7 @@ Seraphism conflicts with Dissipation meaning you can't activate Seraphism while 
 
 -----------------------------
 
-
+:blank:
 # :bceStare:  **What are some thoughts about the new Scholar**
 
 Momo a high level Scholar player and streamer made a video with his own thoughts. this is worth a watch if you want to hear a higher level player's take on these changes.
