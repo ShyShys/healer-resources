@@ -1,5 +1,4 @@
-# ✦  :15:「 SCH Bot Commands 」:15:   ✦
-
+:blank: 
 Pay attention to what patch each of these is updated for.
 
 PLEASE GO TO ⁠#bot_spam TO USE THESE
