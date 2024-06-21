@@ -1,5 +1,3 @@
-# ✦  :bceExpert2:  「 Stat Priorities 」:bceExpert2:    ✦
-
 :small_blue_diamond: Please read the section on managing Piety below as well.
 
 :large_blue_diamond: Level 90 Stat Priority: Crit>DH>=Det for pre-BiS melding. Consider melding Det over DH for prog, as the damage benefits are basically equal on average. Meld SpS to a comfy tier if you wish, low priority during prog. 
@@ -16,10 +14,8 @@ You can find stat tiers here: <https://xivgear.app/math/>
 
 
 
-``` ```
 
-# ✦ :bceExpert2:  「 SCH BiS & Gear Options 」:bceExpert2:   ✦
-
+:blank
 **6.55 Savage Gear Sets**
 Sets and approximate DPS comparison are available at
 <https://xivgear.app/#/bis/sch/endwalker/anabaseios>
@@ -50,7 +46,7 @@ For your own gear comparisons I recommend using the combined Healer Gear Planner
 
 -----------------------------
 
-``` ```
+:blank:
  **ULTIMATE SETS**
 
 **6.5 TOP Prog Sets**
