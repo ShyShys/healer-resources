@@ -10,4 +10,6 @@
 
 
 
-:bcaComfyPets: Bugcat is a beloved emote for #sch_lounge, if you are interested in these emotes check the pinned comments here#"Jishi spam" and leave your favorite bugcat emote. you need scholar lounge to access this thread. :bcaComfyPets:
+:bcaComfyPets: Bugcat is a beloved emote for #sch_lounge, if you are interested in these emotes check the pinned comments here#"Jishi spam" and leave your favorite bugcat emote. you need Scholar Lounge to access this thread. :bcaComfyPets:
+
+:bcaComfyPets: Bugcat is a beloved emote for <#277965128673263617>, if you are interested in these emotes check the pinned comments here <#1067547131319177257> and leave your favorite Bugcat emote. you need Scholar Lounge to access this thread you can get scholar lounge from <id:customize>
