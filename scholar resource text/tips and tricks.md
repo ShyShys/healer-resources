@@ -1,5 +1,4 @@
-# ✦  :bceAdoptMe:「 Tips and Tricks 」:bceAdoptMe:   ✦
-
+:blank:
 :small_blue_diamond:How to show your fairy nameplate in battle:
 
 A. Character config > Control Settings > "Target" tab > Under "Target Settings", Uncheck "Disable targetting of pets and minions when in battle."
@@ -30,7 +29,7 @@ This macro will allow you to Place and Heel with the same button. It works by se
 -----------------------------------
 
 
-
+:blank:
 :small_blue_diamond: Scholar and Auto-Attacks
 
 Should I care about auto-attacks on Scholar? 
