@@ -69,6 +69,23 @@ This set sims out slightly higher than the 2.40 sps relic, however I know most p
 -----------------------------
 
 
+**6.4 DSR Sets**
 
+**The piety requirements vary depending on your p7 strat for akh morns. 332 requires more GCD healing while 611 is laxer.**
+
+**Note: A synced 645 relic will be the best weapon for DSR and TOP. However if you don't have it use the etro link above to make a set and reduce the amount of stat lost. **
+
+https://xivgear.app/#/bis/sch/endwalker/dsr
+
+**332 set**
+A very good amount of piety for prog and a slow GCD to help conserve mp. **Suggested if you're currently progging the fight**
+
+**611 set** 
+If you use this set with 332 or you're unsure how to properly manage your mana you will oom. **Suggested if you want to optimize after clearing**
+
+**TEA, UWU, and UCOB gear**
+For these fights, the easiest thing to do is just to use the synced gear. You can use `!faq ultimatesync` to see the ilvl requirements to max both substats with synced gear in each fight. Note that even 580 and 590 gear will work fine in TEA even if it doesn't fully cap the lower substat. If you have the ShB relic weapon it's BiS in all 3 of these fights. Stat caps for it can also be found in `!faq ultimatesync`.
+
+You can find extra sets in the calc. Please don't leave the master sheet open as it causes slowdown when many people have the same sheet open. You can Make a Copy of the sheet from the File menu. <https://bit.ly/SCHDMGCalc>
 
 
