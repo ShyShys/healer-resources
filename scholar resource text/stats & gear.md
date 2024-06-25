@@ -16,7 +16,7 @@ You can find stat tiers here: <https://xivgear.app/math/>
 
 
 
-:blank
+:blank:
 **6.55 Savage Gear Sets**
 Sets and approximate DPS comparison are available at
 <https://xivgear.app/#/bis/sch/endwalker/anabaseios>
