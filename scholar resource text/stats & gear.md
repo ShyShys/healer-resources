@@ -70,7 +70,7 @@ This set sims out slightly higher than the 2.40 sps relic, however I know most p
 
 -----------------------------
 
-
+:blank:
 **6.4 DSR Sets**
 
 **The piety requirements vary depending on your p7 strat for akh morns. 332 requires more GCD healing while 611 is laxer.**
