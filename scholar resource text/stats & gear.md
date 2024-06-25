@@ -8,7 +8,8 @@ You can find stat tiers here: <https://xivgear.app/math/>
 
 
 
------------------------------
+---------------------------
+
 
 
 
@@ -27,7 +28,7 @@ This set is a good for those who want extra mp economy for unoptimized environme
 **2.40 Lo-pi Set**
 This set is a good all around choice for those who need to deal with unoptimized environments such as Party Finder. 2.40 has good Chain alignment, but poor Bio alignment.
 
-````````````````````
+---------------------------
 
 
 :blank: 
@@ -44,7 +45,8 @@ For your own gear comparisons I recommend using the combined Healer Gear Planner
 
 
 
------------------------------
+---------------------------
+
 
 :blank:
  **ULTIMATE SETS**
