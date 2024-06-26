@@ -14,7 +14,7 @@
 * Enhanced Recitation is a trait that reduces Recitation cooldown to 60 seconds.
 
 **Level 100:**
-* Seraphism is our new capstone ability. When activates it regens all party members in a 50y radius around you for 100p while Seraphism is active
+* Seraphism is our new capstone ability. When activated Seraphism regens all party members in a 50y radius around you for 100p while Seraphism is active
 * Seraphism also changes Adloquium into Manifestation. Manifestation is an instant cast single target heal for 360p(adlo is 300p) with 180% shield based on the amount Manifestation healed for.
 * Seraphism also changes Concitation to Accession. Accession is an instant cast aoe heal for 240p(succor is 200p) with a 180% shield based on the HP healed by Accession.
 * Seraphism also resets the cooldown of Emergency Tactics and reduces its recast timer to 1 second allowing you to spam both shield and pure healing.
