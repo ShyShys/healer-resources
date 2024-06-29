@@ -1,1 +1,1 @@
-https://shyshys.github.io/healer-resources/ and add the folder path to it
+`https://shyshys.github.io/healer-resources/` and add the folder path to it
