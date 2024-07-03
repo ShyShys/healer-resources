@@ -13,7 +13,7 @@ Now that we have free weaves with Broil, we want to avoid using Ruin II whenever
 The image below shows conflicting shields and which shields win out, anything not listed will stack. 
 <https://shyshys.github.io/healer-resources/resources/shields_between_sage_and_scholar.jpg> (Thank you Meru) 
 
-**How do I change my pet glamour**
+## :bceWhat: **How do I change my pet glamour**
 `/petglamour “Eos”` will revert the pet back to Eos
 `/petglamour “Eos” [PETNAME]` will change the pet to anything listed below
 “Carbuncle”
