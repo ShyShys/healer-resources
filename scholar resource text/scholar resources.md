@@ -12,3 +12,4 @@
 
 
 :bcaComfyPets: Bugcat is a beloved emote for <#277965128673263617>, if you are interested in these emotes check the pinned comments here <#1067547131319177257> and leave your favorite Bugcat emote. you need Scholar Lounge to access this thread you can get scholar lounge from <id:customize>
+Thank you <@147845185726971904> for helkping with all of this. <3

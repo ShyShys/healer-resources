@@ -12,7 +12,7 @@ You can swap Aetherflow (AF) and Dissipation in both of the above openers. Using
 
 ## :small_blue_diamond **refreshing dot at the end of chain:**
 
-With the changes to raid buffs becoming at least 20 seconds, clipping your dot at the end of buffs become a slight lost for scholars and then after just one additional buff window that clip becomes a gain. For a group with at least one additonal raid buffs than scholar this becomes a gain overall for the party. Below is a small calculator that can show you gain over time. <link here>
+With the changes to raid buffs becoming at least 20 seconds, clipping your dot at the end of buffs become a slight lost for scholars and then after just one additional buff window that clip becomes a gain. For a group with at least one additonal raid buffs than scholar this becomes a gain overall for the party. Below is a small calculator that can show you gain over time. <https://docs.google.com/spreadsheets/d/1x9JygMth9UN2nfGiSOAUWSvGtVoBOy7ooKKFSZXyBVI/edit?usp=sharing> make sure you file > make a copy so you can edit the blue section.
 
 ## :small_blue_diamond **prepull broil timing:**
 
