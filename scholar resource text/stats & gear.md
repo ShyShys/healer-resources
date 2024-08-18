@@ -10,29 +10,45 @@ You can find stat tiers here: <https://xivgear.app/math/>
 # Week 1 BiS
 <https://xivgear.app/?page=sl%7C596f7abc-daad-4c68-ae13-0639f065467e>
 
-# Ultimate / Max ilvl sets:
+:Blank: 
+# General Recommendations
+The i729 versions of the 2.5 and 2.49 sets are practical all-rounder sets. They are only behind their i727 counterparts by single-digit DPS and offer more HP, piety and magic defense in return.
 
-These sets are for people who value ehp or want to start working towards Futures Rewritten (Ultimate).
+**2.50** <https://xivgear.app/?page=sl%7Cb1a2682e-6575-49fe-b8cc-26e3fc797400>
+**2.49** <https://xivgear.app/?page=sl%7C438afa5b-1521-437d-b85d-af0e6315e07a>
 
-<https://xivgear.app/?page=sl%7Cfe4f4cd5-dd1e-4ecf-9e12-1d2a49ffdf61>
+**Full sheet with more sets** <https://xivgear.app/?page=sl%7C8b74023f-71f7-46a4-aed6-6e575b7f95a4>
 
-# Max Damage sets
+:Blank: 
+# FRU / Max ilvl Sets
+These sets are for people who value eHP or want to start working towards Futures Rewritten (Ultimate). FRU sets are between 2.50/2.49 low piety sets and a higher piety 2.5 set. Choose whichever one seems more in line with your goals.
 
-These sets are for people who are interested in speeds/parsing and want the most damage they can get. These sets use 710 items so your ehp will be lower.
+**2.50** <https://xivgear.app/?page=sl%7Cdf6a55e3-30a0-4dc6-b163-1a6278150075>
+**2.49** <https://xivgear.app/?page=sl%7C91a8fdc7-586c-4321-ba6f-763612e07cda>
+**2.50 higher piety** <https://xivgear.app/?page=sl%7Cbc44b6b0-344a-46fe-8d4c-bf8747be23ed>
 
-<https://xivgear.app/?page=sl%7C3ab8b3f4-1154-4f2f-8ae5-4f444c1ed9f2>
+**Full sheet with more sets** <https://xivgear.app/?page=sl%7Ccba60553-7850-4587-9db1-d402aec8187e>
 
+:Blank: 
+# Max Damage Sets
+These sets are for people who are interested in speeds/parsing and want the most damage they can get. These sets use 710 items so your eHP will be lower. The 2.5 set may parse better with higher variance but 2.31 has more consistent damage.
 
-<:Blank:822985202111348796> 
+**2.50** <https://xivgear.app/?page=sl%7C1fa4c759-bd26-402e-90e3-109e6379e081>
+**2.31** <https://xivgear.app/?page=sl%7Ce2ddde5b-2846-4c2d-87f1-a6a990612a00>
+
+**Full sheet with more sets** <https://xivgear.app/?page=sl%7Cc094b1e6-624c-418d-9599-ed30c27a773b>
+
+:Blank: 
 
 # information 
 
 ## 2.5GCD and 2.49 GCD info
 
-In the game, your global cooldown (GCD) timing is determined by when the game code aligns with your frame updates. This happens once per frame. If your next action doesn't sync perfectly with these frames, there can be slight delays in your GCD. This is especially noticeable on lower or fluctuating frame rates, or if your game is locked at 60 frames per second (fps). Over the course of a battle, this could mean that a gear set with a supposed 2.5-second GCD might actually function more like a 2.55-second GCD due to these delays.
+In the game, your global cooldown (GCD) timing is determined by when the game code aligns with your frame updates. This happens once per frame. If your next action doesn't sync perfectly with these frames, there can be slight delays in your GCD. This is especially noticeable on lower FPS. Fluctuating frame rates can also make your GCD more unpredictable. Over the course of a battle, these delays could mean that a gear set with a supposed 2.5 GCD might actually function more like a 2.505 GCD. Players with higher FPS will suffer the effects of this issue less but will never be able to fully eliminate them. 
 
-Players with higher and stable fps are less likely to encounter this issue, and third-party tools like ReAction typically avoid it altogether. To better understand how this works for your specific character, you can use a GCD calculator. By inputting combat logs into the calculator, you can see the actual duration of your GCDs during gameplay. It's advisable to use multiple logs for accuracy and disregard any anomalous data. For a practical tool to calculate GCDs, you can visit <https://gcdcalc.fly.dev/>.
+Third-party tools like ReAction help to mitigate this effect by syncing your frames with when your GCD is ready. To better understand how this works for your specific character, you can make comparisons using a GCD calculator. By inputting fflogs into the calculator, you can see the actual duration of your GCDs during gameplay. It's advisable to use multiple logs for accuracy and disregard any anomalous data. For a practical tool to calculate GCDs, you can visit <https://gcdcalc.fly.dev/.>
 
 ## Dot Refresh 
 
-If using the Early Refresh(DoT clip) opener: The 2.50 and 2.49 sets will NOT land Biolysis under Chain Stratagem if you use Biolysis AFTER your 6th Energy Drain in the opener (the breakpoint is 2.47 and requires low ping). To fix this, use Biolysis on the same GCD as your 6th Energy Drain.
+If using the Early Refresh(DoT clip) opener: The 2.50 GCD and 2.49 GCD sets will NOT land Biolysis under Chain Stratagem if you use Biolysis AFTER your 6th Energy Drain in the opener (the breakpoint is 2.47 GCD and requires low ping). To fix this, use Biolysis on the same GCD as your 6th Energy Drain.
+:Blank: 
