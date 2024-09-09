@@ -17,7 +17,7 @@ The i729 versions of the 2.5 and 2.49 sets are practical all-rounder sets. They 
 **2.50** <https://xivgear.app/?page=sl%7Cb1a2682e-6575-49fe-b8cc-26e3fc797400>
 **2.49** <https://xivgear.app/?page=sl%7C438afa5b-1521-437d-b85d-af0e6315e07a>
 
-**Full sheet with more sets** <https://xivgear.app/?page=sl%7C8b74023f-71f7-46a4-aed6-6e575b7f95a4>
+**Full sheet with more sets** <https://xivgear.app/?page=sl%7C41dc2ef5-7a9a-4190-83b7-7eb884f3958a>
 
 :Blank: 
 # FRU / Max ilvl Sets
@@ -36,9 +36,21 @@ These sets are for people who are interested in speeds/parsing and want the most
 **2.50** <https://xivgear.app/?page=sl%7C1fa4c759-bd26-402e-90e3-109e6379e081>
 **2.31** <https://xivgear.app/?page=sl%7Ce2ddde5b-2846-4c2d-87f1-a6a990612a00>
 
-**Full sheet with more sets** <https://xivgear.app/?page=sl%7Cc094b1e6-624c-418d-9599-ed30c27a773b>
+**Full sheet with more sets** <https://xivgear.app/?page=sl%7C8220b2fd-abac-4aae-a9a9-15b264bb3a1b>
 
 :Blank: 
+# Endwalker Ultimate/Criterion Sets
+These sets are for Dragonsong Reprise(ultimate) and The Omega Porotol(ultimate) and Criterion Dungeons. For The Omega Protocol you can sync gear but it is way better to actually take the time to farm gear, you'll squeeze out more damage which can help with groups progging and playing a bit too safe.
+
+**DSR** The piety requirements vary depending on your p7 strat for akh morns. 332 requires more GCD healing while 611 is laxer. Choose a GCD based on the gear you're willing to farm. 2.5 provids mainly sync gear while 2.45/2.40 has p1s-p4s raid gear
+
+**DSR sheet** <https://xivgear.app/?page=sl%7C4b650298-c721-4fc9-9c22-e2b120f4b56f>
+
+**TOP/Sil'dihn Subterrance** <
+https://xivgear.app/?page=sl%7C8c6abd67-375c-468b-ad28-0bf64fd7a650>
+
+**Mount Rokkon/Aloalo Island sheet**<https://xivgear.app/?page=bis%7Csch%7Cendwalker%7Canabaseios>
+
 
 # information 
 
@@ -48,7 +60,14 @@ In the game, your global cooldown (GCD) timing is determined by when the game co
 
 Third-party tools like ReAction help to mitigate this effect by syncing your frames with when your GCD is ready. To better understand how this works for your specific character, you can make comparisons using a GCD calculator. By inputting fflogs into the calculator, you can see the actual duration of your GCDs during gameplay. It's advisable to use multiple logs for accuracy and disregard any anomalous data. For a practical tool to calculate GCDs, you can visit <https://gcdcalc.fly.dev/.>
 
+If you want to learn more about how FPS affects your gameplay @juwunie made an excellent write up going more in-depth about [this subject.](https://docs.google.com/document/d/1MrihCFNViHOGO7ETedsrA3E02urhByuCqYayT6qPots/edit?usp=sharing)
+
+:blank:
 ## Dot Refresh 
 
 If using the Early Refresh(DoT clip) opener: The 2.50 GCD and 2.49 GCD sets will NOT land Biolysis under Chain Stratagem if you use Biolysis AFTER your 6th Energy Drain in the opener (the breakpoint is 2.47 GCD and requires low ping). To fix this, use Biolysis on the same GCD as your 6th Energy Drain.
-:Blank: 
+
+:Blank:
+## Average DPS of gear vs Parsing
+<https://docs.google.com/document/d/1hfAt8mtV4P2qU9WZMRsF-jqkdhUCziRuFFZP0bx06no/edit?usp=sharing>
+This write up by <@145919664575217664> helps explain how some gear sets could be better for parsing despite having weaker sim damage and overall performance.

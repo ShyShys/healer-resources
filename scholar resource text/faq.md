@@ -1,7 +1,11 @@
-# :bceWhat:  **Endwalker FAQ**
+# :bceWhat:  **Dawntrail FAQ**
+:blank:
+## :bceWhat: **Is Pet Potency still a thing for SCH?**
+when SCH is alone and does not have role bonuses, their fairy’s potencies will be roughly 95-96% of the SCH’s. As a point of reference, this means that Fey Blessing, an ability with a listed value of 320p that comes directly from the fairy, is equal to roughly a 301p-304p heal coming directly from the Scholar.
 
-## :bceWhat:  **Is pet potency still a thing for SCH?** (last tested in endwalker)
-Yes unfortunately, though it's significantly better now. In solo play the fairy's potency is worth ~0.93x player potency, in a party with the full 5% role bonus it's worth ~0.89x player potency.
+In full parties with max role bonus, fairy’s potencies will be roughly 90-91% of their listed potencies. Using the example above, Fey Blessing shows a 320p heal, but will actually heal 288p-291p in function.
+
+Currently fairy has a bug, you can read more in [SCH Questions.](https://discord.com/channels/277897135515762698/277965183366987776/1280291155606634507)
 
 ## :bceWhat:  **Should I still be using Ruin II :RuinII: ? If so, when?**
 Now that we have free weaves with Broil, we want to avoid using Ruin II whenever possible. You should be slidecasting using Broil to get to where you need to be, and single weaving oGCDs after Broil. You can still use natural Bio refreshes to double weave and move longer distances, and Swiftcast can be used to move longer distances in a pinch. If you find yourself badly out of position, or a mechanic simply isn't able to be dealt with using these methods, you can use Ruin II for the movement rather than just dropping cast. You can also use Ruin II if you absolutely need to get out 2 oGCDs right away, this can usually be avoided on future pulls with better planning.
