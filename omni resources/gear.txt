@@ -1,0 +1,6 @@
+# Recommended omni healer set
+
+The ilvl 729 general recommended set can easily flex between all healers. Put sps melds on weapon for ast/whm and dh melds on weapon for sch/sge. The sets only show scholar but nothing changes between any of the healer weapons.
+
+[2.5 GCD SCH/SGE](https://xivgear.app/?page=sl%7Cad91a76e-f183-46ba-b2b0-b53816850fe9)
+[2.48 GCD AST/WHM](https://xivgear.app/?page=sl%7C3c22029f-4c42-4feb-ba8e-6cc1df658cec)

@@ -1,0 +1,80 @@
+<:blank:846622384739057684>
+<:healer:888513670093607003> **List of Healer-Related Kupo Commands**
+To use a command, please type them in <#279387176502820865> -- if you have a question related to it, feel free to use it in your respective job's #questions channel and follow with your question.
+ 
+**General Healer Commands**
+`!faq healerguide` 
+-- Summons Zyrk's Principles of Healing Guide
+`!faq gearplanner`
+-- Provides various gear planner links including the Healer Gear Planner, which allows you to compare dps output with different combinations of gear. Includes ultimate ilvl sync options
+`!faq HPS`
+-- A brief overview of why HPS is a garbage metric
+`!faq healingup`
+-- An overview of the types of healing up buffs in the game and the differences in how they work. 
+`!faq weaving`
+-- Summons Nethar's visual guide on weaving
+`!faq slidecasting`
+-- Provides a brief overview of what slidecasting is, and how to do so
+`!faq castertax`
+-- Provides a brief definition of caster tax
+`!faq animationlock`
+-- Provides a brief definition of animation lock and the expected amount of time you are frozen for.
+`!faq stats`
+-- Provides a link to the Allagan Studies website that hosts the stat tiers.
+`!faq xiva`
+-- Provides a link to XIVAnalysis, a website that will quickly provide an automated review of your logs.
+`!faq macrogcd`
+-- Provides a link to a tweet that contains a video demonstrating why macroing GCDs is bad.
+`!faq tomeweapon`
+-- Determine if you should spend your tomes on the weapon, or not.
+`!faq ultimatesync`
+-- Explains how gear syncing works in old ultimate fights and provides needed ilvls to meet stat caps.
+`!faq healerfood`
+-- List of current tier's best food for healers.
+`!faq sps&sks`
+-- Provides an explanation of how skill speed and spell speed affect your actions and a quick way to look up your GCD.
+`!faq detdh`
+-- Answering the question of if you should meld DH or Det!
+`!faq keybindkbm`
+-- Summons the keybinding setup guide for keyboard & mouse players.
+`!faq targetkbm`
+-- Summons the targeting setup guide for keyboard & mouse players.
+ 
+ ``` ```
+ 
+ **:ast: Astrologian Commands**
+`!faq astguide`
+-- Summons Zyrk's guide to Astrologian
+`!faq asticons` 
+-- A quick visual guide to astro healing and shielding buff icons
+ 
+ ``` ```
+ 
+**:sch: Scholar Commands**
+`!faq schguide`
+-- Provides links to the most recent in-depth scholar guide.
+`!faq newsch`
+Provides a list of available mini-guides for new SCHs.
+`!faq schgear`
+-- A quick list of a suggested token and tome spending order
+`!faq schcalc`
+-- Summons a link to the Scholar gear calculator
+`!faq schhotbars`
+-- SCH hotbar examples for keyboard and mouse and controller.
+ 
+ ``` ```
+ 
+**:whm: White Mage Commands**
+`!faq whmsps`
+-- Provides an overview of why White Mage doesn't stack SpS or shoot for a specific GCD tier.
+`!faq whmgear`
+-- Helpful list of gear priorities to get you going
+`!faq whmcalc`
+-- Summons the White Mage gear calc.
+`!faq whmbars`
+-- White Mage hotbar examples
+`!faq whmcure`
+-- An explanation about why you should avoid using Cure 1
+`!faq whmmacro`
+-- Helpful macros for White Mages
+

@@ -1,0 +1,36 @@
+<:blank:846622384739057684> 
+<:healer:888513670093607003> **New-to-Healing Resources**
+> **Momo's Introduction to Healing in FFXIV Video**
+> <https://www.youtube.com/watch?v=5WhrCpxtpQ8>
+> 
+> **Julia’s 6.3 FFXIV Healing Video**
+> <https://youtu.be/tdUZ333FN7U>
+> <:blank:846622384739057684> 
+> **Zyrk's Bullshit Guide to the Principles of Healing**
+> <http://bit.ly/FFXIVHealerGuide>
+> (not updated for 5.0 but concepts and principles are still relevant!)
+> 
+> **Jaba's Keyboard and Mouse Guides**
+> Keybinding: <https://bit.ly/keybindkbm>
+> Targeting: <https://bit.ly/targetkbm>
+
+<:healer:888513670093607003> **Healing Optimization Video (Stormblood)**
+> **Momo’s Healer Optimization Guide**
+> <https://www.youtube.com/watch?v=SclS5tbtWNc>
+> Also from last expansion so some skill references are out of date and no longer applicable, but can give you an idea of how to approach strategy and synergy in trying to optimize with your co-healer.
+
+<:healer:888513670093607003> **Other Resources**
+> **Healer Gear Planner**
+> <https://bit.ly/Healer-Gear>
+> 
+> **Nethar's Quick Visual Guide to Weaving & Clipping**
+> <https://cdn.discordapp.com/attachments/598630005999796233/600432765250568262/GCD_v._3.png>
+> 
+> **XIV Analysis**
+> Plug parses from fflogs into this website for a quick overview of your performance and advice of what to work on!
+> <https://xivanalysis.com/>
+> 
+> **Sahh's Timeline Planning Sheet**
+> <http://bit.ly/EdenTimelinesAndResources>
+
+``` ```

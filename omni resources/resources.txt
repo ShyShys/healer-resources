@@ -1,0 +1,16 @@
+# <:HEALER:679794779034615828> [Omni Gear](https://discord.com/channels/277897135515762698/1293112246871920700)
+ └ [2.5 GCD SCH/SGE](https://xivgear.app/?page=sl%7Cad91a76e-f183-46ba-b2b0-b53816850fe9)
+ └ [2.48 GCD AST/WHM](https://xivgear.app/?page=sl%7C3c22029f-4c42-4feb-ba8e-6cc1df658cec) 
+# <:HEALER:679794779034615828> [Guides](https://discord.com/channels/277897135515762698/1293112444004073493)
+# <:HEALER:679794779034615828> [Bot Commands](https://discord.com/channels/277897135515762698/1293112322965114931)
+
+
+``` ```
+
+
+<:blank:846622384739057684> 
+<:healer:888513670093607003> **Healer Resources**
+> <:astrologian:894090697697787914> Astrologian: <#1256171881665400882> 
+> <:sage:1009353297309745223> Sage: <#1253381529716129852> 
+> <:Scholar:556599006063755265> Scholar: <#1253380993482752183> 
+> <:whitemage:894090697647456266> White Mage: <#1255985280427491428>
