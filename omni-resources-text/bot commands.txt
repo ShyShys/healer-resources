@@ -2,7 +2,7 @@
 <:healer:888513670093607003> **List of Healer-Related Kupo Commands**
 To use a command, please type them in <#279387176502820865> -- if you have a question related to it, feel free to use it in your respective job's #questions channel and follow with your question.
  
-**General Healer Commands**
+
 `!faq healerguide` 
 -- Summons Zyrk's Principles of Healing Guide
 `!faq gearplanner`
@@ -42,7 +42,7 @@ To use a command, please type them in <#279387176502820865> -- if you have a que
  
  ``` ```
  
- **:ast: Astrologian Commands**
+
 `!faq astguide`
 -- Summons Zyrk's guide to Astrologian
 `!faq asticons` 
@@ -50,7 +50,7 @@ To use a command, please type them in <#279387176502820865> -- if you have a que
  
  ``` ```
  
-**:sch: Scholar Commands**
+
 `!faq schguide`
 -- Provides links to the most recent in-depth scholar guide.
 `!faq newsch`
@@ -64,7 +64,7 @@ Provides a list of available mini-guides for new SCHs.
  
  ``` ```
  
-**:whm: White Mage Commands**
+
 `!faq whmsps`
 -- Provides an overview of why White Mage doesn't stack SpS or shoot for a specific GCD tier.
 `!faq whmgear`
