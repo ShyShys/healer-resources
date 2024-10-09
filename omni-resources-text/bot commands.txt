@@ -78,3 +78,13 @@ Provides a list of available mini-guides for new SCHs.
 `!faq whmmacro`
 -- Helpful macros for White Mages
 
+``` ```
+
+`!faq sgegear`
+-- Helpful list of gear priorities to get you going
+`!faq sgehotbar`
+-- Sage hotbar examples
+`!faq sgehud`
+-- Sage hotbar examples for keyboard and mouse and controller.
+`!faq sge macro`
+-- Helpful macros for Sage
