@@ -14,10 +14,10 @@ You can find stat tiers here: <https://xivgear.app/math/>
 # General Recommendations
 The i729 versions of the 2.5 and 2.49 sets are practical all-rounder sets. They are only behind their i727 counterparts by single-digit DPS and offer more HP, piety and magic defense in return.
 
-**2.50** <https://xivgear.app/?page=sl%7Cb1a2682e-6575-49fe-b8cc-26e3fc797400>
-**2.49** <https://xivgear.app/?page=sl%7C438afa5b-1521-437d-b85d-af0e6315e07a>
+**2.50** <https://xivgear.app/?page=sl%7Cdd5ad553-40e4-49c0-ab35-5c5cf9b490b7>
+**2.49** <https://xivgear.app/?page=sl%7C33be7428-e34c-4f47-81fd-b38f98070baa>
 
-**Full sheet with more sets** <https://xivgear.app/?page=sl%7C41dc2ef5-7a9a-4190-83b7-7eb884f3958a>
+**Full sheet with more sets** <https://xivgear.app/?page=sl%7Cebab5aec-e715-41ab-91c0-a497a4ce3b7c>
 
 :Blank: 
 # FRU / Max ilvl Sets
@@ -44,7 +44,7 @@ These sets are for Dragonsong Reprise(ultimate) and The Omega Porotol(ultimate) 
 
 **DSR** The piety requirements vary depending on your p7 strat for akh morns. 332 requires more GCD healing while 611 is laxer. Choose a GCD based on the gear you're willing to farm. 2.5 provids mainly sync gear while 2.45/2.40 has p1s-p4s raid gear
 
-**DSR sheet** <https://xivgear.app/?page=sl%7C4b650298-c721-4fc9-9c22-e2b120f4b56f>
+**DSR sheet** <https://xivgear.app/?page=sl%7C7513a190-7602-408d-9829-71026af81e45>
 
 **TOP/Sil'dihn Subterrance** <
 https://xivgear.app/?page=sl%7C8c6abd67-375c-468b-ad28-0bf64fd7a650>
