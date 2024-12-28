@@ -1,0 +1,11 @@
+"**Should I refresh my DoT inside raid buffs?**
+• DoTs tick to deal damage once every 3 seconds, and healer DoTs last for 30 seconds, for a total of 10 ticks per cast. Typically, we try to refresh DoTs within 0-1 seconds of their expiration to avoid losing ticks and maximize DoT uptime.
+
+**Some bosses will go untargetable partway through the duration of a DoT. When they do, refreshing normally may cause us to lose DoT ticks.**
+• Because we would be losing DoT ticks either way, we can choose to accept this loss and move our DoT into raid buffs to gain extra damage from raid buffs.
+• There are two ways to do this - refreshing early in the tail end of buffs, or delaying the initial DoT cast into buffs.
+• If a boss goes untargetable around 10 seconds *before* a DoT refresh, you can refresh early in the tail end of buffs, putting your refreshes at around X:20 and X:50 every minute.
+     —This applies to P9S, since Kokytos leaves at 3:53.
+• If a boss goes untargetable around 10 seconds *after* a DoT refresh, you can delay the initial opener DoT into buffs, putting your refreshes at around X:10 and X:40 every minute.
+     —This applies to P12p1, since Athena leaves at 4:40.
+• If you know exactly when the boss dies (which occurs in high-end optimization groups), you can choose to refresh normally, refresh early, or delay, depending on which one fits your expected kill time.

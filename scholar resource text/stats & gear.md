@@ -11,45 +11,33 @@ You can find stat tiers here: <https://xivgear.app/math/>
 <https://xivgear.app/?page=sl%7C596f7abc-daad-4c68-ae13-0639f065467e>
 
 :Blank: 
-# General Recommendations
-The i729 versions of the 2.5 and 2.49 sets are practical all-rounder sets. They are only behind their i727 counterparts by single-digit DPS and offer more HP, piety and magic defense in return.
+# **Min Piety BiS**
+These sets are for people who just want to push for damage and know the limits of their mana regen. The .50 and .49 sets are slow sets that have better mana eco while the 2.32 sets and 2.31 sets uses a lot more mana. the .32 set does 9 more sim DPS than the .31 set. 
 
-**2.50** <https://xivgear.app/?page=sl%7Cdd5ad553-40e4-49c0-ab35-5c5cf9b490b7>
-**2.49** <https://xivgear.app/?page=sl%7C33be7428-e34c-4f47-81fd-b38f98070baa>
+[2.50](<https://xivgear.app/?page=sl%7Cff8e55a8-a598-4bf3-abdd-bb40b66fa908&onlySetIndex=0>) & [2.49](<https://xivgear.app/?page=sl%7Cff8e55a8-a598-4bf3-abdd-bb40b66fa908&onlySetIndex=1>)
 
-**Full sheet with more sets** <https://xivgear.app/?page=sl%7Cebab5aec-e715-41ab-91c0-a497a4ce3b7c>
-
-:Blank: 
-# FRU / Max ilvl Sets
-These sets are for people who value eHP or want to start working towards Futures Rewritten (Ultimate). FRU sets are between 2.50/2.49 low piety sets and a higher piety 2.5 set. Choose whichever one seems more in line with your goals.
-
-**2.50** <https://xivgear.app/?page=sl%7Cdf6a55e3-30a0-4dc6-b163-1a6278150075>
-**2.49** <https://xivgear.app/?page=sl%7C91a8fdc7-586c-4321-ba6f-763612e07cda>
-**2.50 higher piety** <https://xivgear.app/?page=sl%7Cbc44b6b0-344a-46fe-8d4c-bf8747be23ed>
-
-**Full sheet with more sets** <https://xivgear.app/?page=sl%7Ccba60553-7850-4587-9db1-d402aec8187e>
+[2.32](<https://xivgear.app/?page=sl%7Cff8e55a8-a598-4bf3-abdd-bb40b66fa908&onlySetIndex=2>) & [2.31](<https://xivgear.app/?page=sl%7Cff8e55a8-a598-4bf3-abdd-bb40b66fa908&onlySetIndex=3>)
 
 :Blank: 
-# Max Damage Sets
-These sets are for people who are interested in speeds/parsing and want the most damage they can get. These sets use 710 items so your eHP will be lower. The 2.5 set may parse better with higher variance but 2.31 has more consistent damage.
+# **Mid Piety/No Chaotic BiS**
 
-**2.50** <https://xivgear.app/?page=sl%7C1fa4c759-bd26-402e-90e3-109e6379e081>
-**2.31** <https://xivgear.app/?page=sl%7Ce2ddde5b-2846-4c2d-87f1-a6a990612a00>
+These are higher piety sets for those  who don't know the limit of their piety or don't know the raid environment they're going into and how much they'll need to safety heal. You should use these sets until you get more used to your kit and how to effectively heal without burning too much mana.
 
-**Full sheet with more sets** <https://xivgear.app/?page=sl%7C8220b2fd-abac-4aae-a9a9-15b264bb3a1b>
+[2.50](<https://xivgear.app/?page=sl%7Cf802e7b0-b316-419a-a777-6794ed0cebb1>) & [2.49](<https://xivgear.app/?page=sl%7C18ce34ca-066b-4a2a-a468-d415b442d0e4>) 956 piety
+
+[2.50](<https://xivgear.app/?page=sl%7C7e35966f-654e-4c3e-800b-c29e768cae7e>) 1330 piety
+
+:Blank: 
 
 :Blank: 
 # Endwalker Ultimate/Criterion Sets
-These sets are for Dragonsong Reprise(ultimate) and The Omega Porotol(ultimate) and Criterion Dungeons. For The Omega Protocol you can sync gear but it is way better to actually take the time to farm gear, you'll squeeze out more damage which can help with groups progging and playing a bit too safe.
+These sets are for Endwalker content. For The Omega Protocol you can sync gear but it is way better to actually take the time to farm gear, you'll squeeze out more damage which can help with groups progging and playing a bit too safe.
 
 **DSR** The piety requirements vary depending on your p7 strat for akh morns. 332 requires more GCD healing while 611 is laxer. Choose a GCD based on the gear you're willing to farm. 2.5 provids mainly sync gear while 2.45/2.40 has p1s-p4s raid gear
 
-**DSR sheet** <https://xivgear.app/?page=sl%7C7513a190-7602-408d-9829-71026af81e45>
-
-**TOP/Sil'dihn Subterrance** <
-https://xivgear.app/?page=sl%7C8c6abd67-375c-468b-ad28-0bf64fd7a650>
-
-**Mount Rokkon/Aloalo Island sheet**<https://xivgear.app/?page=bis%7Csch%7Cendwalker%7Canabaseios>
+[DSR](<https://xivgear.app/?page=sl%7C7513a190-7602-408d-9829-71026af81e45>)
+[TOP/Sil'dihn](<https://xivgear.app/?page=sl%7C8c6abd67-375c-468b-ad28-0bf64fd7a650>)
+[Rokkon/Aloalo](<https://xivgear.app/?page=bis%7Csch%7Cendwalker%7Canabaseios>)
 
 
 # information 
