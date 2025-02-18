@@ -28,6 +28,14 @@ These are higher piety sets for those  who don't know the limit of their piety o
 [2.50](<https://xivgear.app/?page=sl%7C7e35966f-654e-4c3e-800b-c29e768cae7e>) 1330 piety
 
 :Blank: 
+# **full sheets**
+
+
+Chaotic Gear Sheet: 
+<https://xivgear.app/?page=sl%7C536d03d6-4fa3-4164-bd71-f6e54b95c33f>
+
+Max ilvl non chaotic gear:
+<https://xivgear.app/?page=sl%7Cf2a929dc-d0cf-4672-b209-3da68b8c5991>
 
 :Blank: 
 # Endwalker Ultimate/Criterion Sets
