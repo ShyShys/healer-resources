@@ -8,45 +8,33 @@ You can find stat tiers here: <https://xivgear.app/math/>
 
 
 # Week 1 BiS
-<https://xivgear.app/?page=sl%7C596f7abc-daad-4c68-ae13-0639f065467e>
+<https://xivgear.app/?page=sl%7Ce8be474b-b938-422f-b62d-d022e3f20026>
 
 :Blank: 
 # **Min Piety BiS**
-These sets are for people who just want to push for damage and know the limits of their mana regen. The .50 and .49 sets are slow sets that have better mana eco while the 2.32 sets and 2.31 sets uses a lot more mana. the .32 set does 9 more sim DPS than the .31 set. 
 
-[2.50](<https://xivgear.app/?page=sl%7Cff8e55a8-a598-4bf3-abdd-bb40b66fa908&onlySetIndex=0>) & [2.49](<https://xivgear.app/?page=sl%7Cff8e55a8-a598-4bf3-abdd-bb40b66fa908&onlySetIndex=1>)
-
-[2.32](<https://xivgear.app/?page=sl%7Cff8e55a8-a598-4bf3-abdd-bb40b66fa908&onlySetIndex=2>) & [2.31](<https://xivgear.app/?page=sl%7Cff8e55a8-a598-4bf3-abdd-bb40b66fa908&onlySetIndex=3>)
 
 :Blank: 
 # **Mid Piety/No Chaotic BiS**
 
-These are higher piety sets for those  who don't know the limit of their piety or don't know the raid environment they're going into and how much they'll need to safety heal. You should use these sets until you get more used to your kit and how to effectively heal without burning too much mana.
-
-[2.50](<https://xivgear.app/?page=sl%7Cf802e7b0-b316-419a-a777-6794ed0cebb1>) & [2.49](<https://xivgear.app/?page=sl%7C18ce34ca-066b-4a2a-a468-d415b442d0e4>) 956 piety
-
-[2.50](<https://xivgear.app/?page=sl%7C7e35966f-654e-4c3e-800b-c29e768cae7e>) 1330 piety
 
 :Blank: 
 # **full sheets**
 
 
-Chaotic Gear Sheet: 
-<https://xivgear.app/?page=sl%7C536d03d6-4fa3-4164-bd71-f6e54b95c33f>
-
-Max ilvl non chaotic gear:
-<https://xivgear.app/?page=sl%7Cf2a929dc-d0cf-4672-b209-3da68b8c5991>
-
 :Blank: 
-# Endwalker Ultimate/Criterion Sets
+# Ultimate/Criterion Sets
 These sets are for Endwalker content. For The Omega Protocol you can sync gear but it is way better to actually take the time to farm gear, you'll squeeze out more damage which can help with groups progging and playing a bit too safe.
 
 **DSR** The piety requirements vary depending on your p7 strat for akh morns. 332 requires more GCD healing while 611 is laxer. Choose a GCD based on the gear you're willing to farm. 2.5 provids mainly sync gear while 2.45/2.40 has p1s-p4s raid gear
 
+## Endwalker: 
 [DSR](<https://xivgear.app/?page=sl%7C7513a190-7602-408d-9829-71026af81e45>)
 [TOP/Sil'dihn](<https://xivgear.app/?page=sl%7C8c6abd67-375c-468b-ad28-0bf64fd7a650>)
 [Rokkon/Aloalo](<https://xivgear.app/?page=bis%7Csch%7Cendwalker%7Canabaseios>)
 
+## Dawntrail:
+[FRU 2.5](<https://xivgear.app/?page=sl%7Cff8e55a8-a598-4bf3-abdd-bb40b66fa908&onlySetIndex=0>) | [FRU 2.31](<https://xivgear.app/?page=sl%7Cff8e55a8-a598-4bf3-abdd-bb40b66fa908&onlySetIndex=3>)
 
 # information 
 
