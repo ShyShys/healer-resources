@@ -1,9 +1,10 @@
 --- 
 # <:bceExpert2:477317448039792641>  [Gear, BiS, and Stats](https://discord.com/channels/277897135515762698/1253394673314299955) 
 <:bceCat2Clever2:593020251193606154>  Current Content BiS
- └ [2.40](https://xivgear.app/?page=sl%7C3f44458c-2a5c-46b8-9f65-20622e274353)
- └ [2.32](https://xivgear.app/?page=sl%7C901561a2-78d3-487f-b7f5-6cec3deee28e)
- └ [2.31](https://xivgear.app/?page=sl%7C6695d851-896d-4d44-ab0e-4792b91cdb6a)
+ └ [2.40](https://xivgear.app/?page=sl%7C97192835-e665-4d26-a8ac-6694e336dc91)
+ └ [2.32](https://xivgear.app/?page=sl%7Cf010309c-8a4e-4428-a928-1fabcbf0c63d)
+ └ [2.31](https://xivgear.app/?page=sl%7C2a96ac4b-45f7-413b-a509-3cae2e524b78)
+ └ [Omni-healer sets](https://discord.com/channels/277897135515762698/1293112246871920700/1293369841020829756)
 <:bceCatClever:593020248626823188> Legacy BiS
  └ [DSR](https://xivgear.app/?page=sl%7C7513a190-7602-408d-9829-71026af81e45) ilvl600
  └ [TOP/Sil'dihn](https://xivgear.app/?page=sl%7C8c6abd67-375c-468b-ad28-0bf64fd7a650) ilvl 630

@@ -10,8 +10,30 @@ You can find stat tiers here: <https://xivgear.app/math/>
 # Week 1 BiS
 <https://xivgear.app/?page=sl%7Ce8be474b-b938-422f-b62d-d022e3f20026>
 
-:Blank: 
-# **Min Piety BiS**
+<:Blank:822985202111348796>
+# Savage BiS
+
+**2.40 set:** <https://xivgear.app/?page=sl%7Ce429375a-d530-4a70-996a-0782b5ed776a>
+* This is the generally recommended set. It has great alignment for both Aetherflow and Chain Stratagem, and its slower GCD ensures that you will have more MP for raises and GCD healing.
+
+**2.32 set:** <https://xivgear.app/?page=sl%7C2863d2d0-c97c-4d5e-8702-e61875a0d353>
+* This set provides the highest simulated DPS. Despite its simulated DPS, its awkward GCD alignment for Chain Stratagem and its increased MP expenditure prevent it from being the default recommendation. It may not be as easy or comfortable to use as the 2.40 set, but its higher simulated DPS makes it a reasonable consideration.
+
+* This set has relatively good alignment for Aetherflow, but this GCD causes Chain Stratagem to drift by 0.6-0.7s per use. That amount of drift may or may not matter.
+
+* If your group's burst is not well timed, the slight Chain Stratagem drift is probably irrelevant. Even if your group's burst is coordinated, raid buffs tend to drift a little over the course of an encounter, so the slight Chain Stratagem drift might not actually cause it to be misaligned.
+
+* If the encounter is short enough (less than 8 or 10 minutes), or if your group ever delays raid buffs because of mechanics or downtime, the slight Chain Stratagem drift should not be significant.
+
+**2.31 set:** <https://xivgear.app/?page=sl%7C2a96ac4b-45f7-413b-a509-3cae2e524b78>
+* This is a suitable alternative for players who prefer a faster GCD without dealing with the slightly awkward GCD alignment of the 2.32 set. Its simulated DPS is slightly worse, but it may be more comfortable to use, depending on your personal preference.
+
+* Even with the faster GCD, this set's MP should still be perfectly sustainable in a somewhat organized environment where you do not expect to cast multiple raises or do a lot of GCD healing.
+
+**Tome buy order:**
+* *2.40:* week 1 gloves > week 2 earring > week 3 wrist > week 4 head > week 6 pants > week 7 ring
+* *2.32:* week 1 gloves > week 2 earring > week 4 pants > week 5 head > week 6 ring
+* *2.31:* week 1 gloves > week 2 earring > week 4 pants >  week 5 ring
 
 
 :Blank: 
@@ -22,9 +44,9 @@ You can find stat tiers here: <https://xivgear.app/math/>
 # **full sheets**
 
 
-:Blank: 
+<:Blank:822985202111348796> 
 # Ultimate/Criterion Sets
-These sets are for Endwalker content. For The Omega Protocol you can sync gear but it is way better to actually take the time to farm gear, you'll squeeze out more damage which can help with groups progging and playing a bit too safe.
+These sets are for non current ultimate content. For The Omega Protocol you can sync gear but it is way better to actually take the time to farm gear, you'll squeeze out more damage which can help with groups progging and playing a bit too safe.
 
 **DSR** The piety requirements vary depending on your p7 strat for akh morns. 332 requires more GCD healing while 611 is laxer. Choose a GCD based on the gear you're willing to farm. 2.5 provids mainly sync gear while 2.45/2.40 has p1s-p4s raid gear
 
