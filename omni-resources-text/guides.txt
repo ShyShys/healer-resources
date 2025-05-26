@@ -29,8 +29,5 @@
 > **XIV Analysis**
 > Plug parses from fflogs into this website for a quick overview of your performance and advice of what to work on!
 > <https://xivanalysis.com/>
-> 
-> **Sahh's Timeline Planning Sheet**
-> <http://bit.ly/EdenTimelinesAndResources>
 
 ``` ```
