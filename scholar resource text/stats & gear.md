@@ -36,8 +36,19 @@ You can find stat tiers here: <https://xivgear.app/math/>
 * *2.31:* week 1 gloves > week 2 earring > week 4 pants >  week 5 ring
 
 
-:Blank: 
-# **Mid Piety/No Chaotic BiS**
+<:Blank:822985202111348796>
+# Occult Crescent BiS
+
+**2.50 set:** <https://xivgear.app/?page=sl%7Cb80d1ba1-175f-4887-bfb6-3f0d01f250b4>
+
+**2.41 set:** <https://xivgear.app/?page=sl%7C5f3b9273-17de-475c-88e8-d4126daaf0c9>
+
+**2.40 set:** <https://xivgear.app/?page=sl%7C1b60f3a8-8ade-407c-8c9d-71417c309ace>
+
+
+* 2.41 is the highest simmed set. But feel free to use whatever set you want 
+* Chain/Aetherflow alignment matters less with the constant downtime between fates/CEs.
+* Maxing SpS has decent value which you won't see in the sim because you get more uses of things like Occult Comet. Although you can realistically only get to 2.40 with the Occult armour
 
 
 :Blank: 

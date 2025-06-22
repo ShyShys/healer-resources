@@ -5,6 +5,7 @@
  └ [2.32](https://xivgear.app/?page=sl%7Cf010309c-8a4e-4428-a928-1fabcbf0c63d)
  └ [2.31](https://xivgear.app/?page=sl%7C2a96ac4b-45f7-413b-a509-3cae2e524b78)
  └ [Omni-healer sets](https://discord.com/channels/277897135515762698/1293112246871920700/1293369841020829756)
+ └ [SCH OC BiS](https://xivgear.app/?page=sl%7C7b0f1077-9f82-4c63-ad43-e82104c1ea4c)
 <:bceCatClever:593020248626823188> Legacy BiS
  └ [DSR](https://xivgear.app/?page=sl%7C7513a190-7602-408d-9829-71026af81e45) ilvl600
  └ [TOP/Sil'dihn](https://xivgear.app/?page=sl%7C8c6abd67-375c-468b-ad28-0bf64fd7a650) ilvl 630

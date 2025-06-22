@@ -1,0 +1,83 @@
+**Rescue Macro:**
+/ac "Rescue" <mo>
+/ac "Rescue" <mo>
+/ac "Rescue" <mo>
+/ac "Rescue" <mo>
+/ac "Rescue" <mo>
+/ac "Rescue" <mo>
+/ac "Rescue" <mo>
+/ac "Rescue" <mo>
+/ac "Rescue" <mo>
+/ac "Rescue" <mo>
+/ac "Rescue" <mo>
+/ac "Rescue" <mo>
+/ac "Rescue" <mo>
+/ac "Rescue" <mo>
+/micon Rescue
+
+
+**Pet: Place & Heel**
+/merror off
+/pac Heel
+/pac Place
+/micon "Place" pet 
+
+
+**Bio: Mouse Over for reopener**
+(This is niche for fights with downtime
+
+/ac "Biolysis" <mo>
+/ac "Biolysis" <mo>
+/ac "Biolysis" <mo>
+/ac "Biolysis" <mo>
+/ac "Biolysis" <mo>
+/ac "Biolysis" <mo>
+/ac "Biolysis" <mo>
+/ac "Biolysis" <mo>
+/ac "Biolysis" <mo>
+/ac "Biolysis" <mo>
+/ac "Biolysis" <mo>
+/ac "Biolysis" <mo>
+/ac "Biolysis" <mo>
+/ac "Biolysis" <mo>
+/micon Biolysis
+
+**DSR Macro:**
+/targetnpc
+/focustarget
+
+
+**Sacred soil ground target off and target**
+
+/ac "Sacred Soil" gtoff
+/ac "Sacred Soil" gtoff
+/ac "Sacred Soil" gtoff
+/ac "Sacred Soil" gtoff
+/ac "Sacred Soil" gtoff
+/ac "Sacred Soil" gtoff
+/ac "Sacred Soil" gtoff
+/ac "Sacred Soil" gtoff
+/ac "Sacred Soil" gtoff
+/ac "Sacred Soil" gtoff
+/ac "Sacred Soil" gtoff
+/ac "Sacred Soil" gtoff
+/ac "Sacred Soil" gtoff
+/ac "Sacred Soil" gtoff
+/micon "Sacred Soil"
+
+
+/ac "Sacred Soil" <t>
+/ac "Sacred Soil" <t>
+/ac "Sacred Soil" <t>
+/ac "Sacred Soil" <t>
+/ac "Sacred Soil" <t>
+/ac "Sacred Soil" <t>
+/ac "Sacred Soil" <t>
+/ac "Sacred Soil" <t>
+/ac "Sacred Soil" <t>
+/ac "Sacred Soil" <t>
+/ac "Sacred Soil" <t>
+/ac "Sacred Soil" <t>
+/ac "Sacred Soil" <t>
+/ac "Sacred Soil" <t>
+/micon "Sacred Soil"
