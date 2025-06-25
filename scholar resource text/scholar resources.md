@@ -8,9 +8,9 @@
  └ [SCH OC BiS](https://xivgear.app/?page=sl%7C7b0f1077-9f82-4c63-ad43-e82104c1ea4c)
 <:bceCatClever:593020248626823188> Legacy BiS
  └ [DSR](https://xivgear.app/?page=sl%7C7513a190-7602-408d-9829-71026af81e45) ilvl600
- └ [TOP/Sil'dihn](https://xivgear.app/?page=sl%7C8c6abd67-375c-468b-ad28-0bf64fd7a650) ilvl 630
+ └ [TOP/Sil'dihn](https://xivgear.app/?page=sl%7Cb0d68e3a-daba-4b3f-865f-e3c7e19c6d23) ilvl 630
  └ [Rokkon/Aloalo](https://xivgear.app/?page=bis%7Csch%7Cendwalker%7Canabaseios) ilvl 660
- └ [FRU 2.5](<https://xivgear.app/?page=sl%7Cff8e55a8-a598-4bf3-abdd-bb40b66fa908&onlySetIndex=0>) | [FRU 2.31](<https://xivgear.app/?page=sl%7Cff8e55a8-a598-4bf3-abdd-bb40b66fa908&onlySetIndex=3>) ilvl 730
+ └ [FRU 2.5](<https://xivgear.app/?page=sl%7Cc26f2655-c73f-4027-8861-4e22e78286a9&onlySetIndex=0>) | [FRU 2.32](<https://xivgear.app/?page=sl%7Cc26f2655-c73f-4027-8861-4e22e78286a9&onlySetIndex=1>) | [FRU no chaotic](<https://xivgear.app/?page=sl%7Cc26f2655-c73f-4027-8861-4e22e78286a9&onlySetIndex=2>) ilvl 730
 # <:bceMadWatching:439063847572340756>  [Opener](https://discord.com/channels/277897135515762698/1253396517801168986)  
 # <:bceEatTutu:1270631454111436880>  [Fight Encounters](https://discord.com/channels/277897135515762698/1257942257412214886)
 # <:bceThinkSweat:995181811850285176>  [Guides](https://discord.com/channels/277897135515762698/1253396066125086720)
@@ -21,7 +21,6 @@
 # <:bceWorry:876494652902109234>  [Dawntrail Changes](https://discord.com/channels/277897135515762698/1253396444661022844)
 # <:bceBigNom:993424878101336095>  [Theorycrafting Tools](https://discord.com/channels/277897135515762698/1253396603818082386)
 # <:bceJob1Done:477317449088237589>  [Archive](https://discord.com/channels/277897135515762698/1257942087630983179)
-
 
 ---
 

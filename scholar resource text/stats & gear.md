@@ -63,11 +63,11 @@ These sets are for non current ultimate content. For The Omega Protocol you can 
 
 ## Endwalker: 
 [DSR](<https://xivgear.app/?page=sl%7C7513a190-7602-408d-9829-71026af81e45>)
-[TOP/Sil'dihn](<https://xivgear.app/?page=sl%7C8c6abd67-375c-468b-ad28-0bf64fd7a650>)
+[TOP/Sil'dihn](<https://xivgear.app/?page=sl%7Cb0d68e3a-daba-4b3f-865f-e3c7e19c6d23>)
 [Rokkon/Aloalo](<https://xivgear.app/?page=bis%7Csch%7Cendwalker%7Canabaseios>)
 
 ## Dawntrail:
-[FRU 2.5](<https://xivgear.app/?page=sl%7Cff8e55a8-a598-4bf3-abdd-bb40b66fa908&onlySetIndex=0>) | [FRU 2.31](<https://xivgear.app/?page=sl%7Cff8e55a8-a598-4bf3-abdd-bb40b66fa908&onlySetIndex=3>)
+[FRU 2.5](<https://xivgear.app/?page=sl%7Cc26f2655-c73f-4027-8861-4e22e78286a9&onlySetIndex=0>) | [FRU 2.32](<https://xivgear.app/?page=sl%7Cc26f2655-c73f-4027-8861-4e22e78286a9&onlySetIndex=1>) | [FRU no chaotic](<https://xivgear.app/?page=sl%7Cc26f2655-c73f-4027-8861-4e22e78286a9&onlySetIndex=2>) ilvl 730
 
 # information 
 
