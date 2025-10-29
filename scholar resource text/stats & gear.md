@@ -56,18 +56,25 @@ You can find stat tiers here: <https://xivgear.app/math/>
 
 
 <:Blank:822985202111348796> 
-# Ultimate/Criterion Sets
+# Ultimate/Criterion Information
 These sets are for non current ultimate content. For The Omega Protocol you can sync gear but it is way better to actually take the time to farm gear, you'll squeeze out more damage which can help with groups progging and playing a bit too safe.
 
-**DSR** The piety requirements vary depending on your p7 strat for akh morns. 332 requires more GCD healing while 611 is laxer. Choose a GCD based on the gear you're willing to farm. 2.5 provids mainly sync gear while 2.45/2.40 has p1s-p4s raid gear
+**DSR**
+*Read if doing 332 or for Piety options*
 
-## Endwalker: 
-[DSR](<https://xivgear.app/?page=sl%7C7513a190-7602-408d-9829-71026af81e45>)
-[TOP/Sil'dihn](<https://xivgear.app/?page=sl%7Cb0d68e3a-daba-4b3f-865f-e3c7e19c6d23>)
-[Rokkon/Aloalo](<https://xivgear.app/?page=bis%7Csch%7Cendwalker%7Canabaseios>)
+Consider replacing non-SpS accessories with Aug. Radiant earrings, Asphodelos necklace or Aug. Radiant ring.
 
-## Dawntrail:
-[FRU 2.5](<https://xivgear.app/?page=sl%7Cc26f2655-c73f-4027-8861-4e22e78286a9&onlySetIndex=0>) | [FRU 2.32](<https://xivgear.app/?page=sl%7Cc26f2655-c73f-4027-8861-4e22e78286a9&onlySetIndex=1>) | [FRU no chaotic](<https://xivgear.app/?page=sl%7Cc26f2655-c73f-4027-8861-4e22e78286a9&onlySetIndex=2>) ilvl 730
+The 332 strat for Akh Morn's Edge in P7 is a lot more demanding in GCD heals than the 611 strat. You should take more Piety than the minimum if you don't expect heals and mitigation to be planned and executed optimally with 332. Watch PoVs if unsure.
+
+
+## Legacy Ultimate Sets:
+If you're looking for BiS for legacy Ultimates or want to tell us about a better one you've found please check [this thread](https://discord.com/channels/277897135515762698/1399615687592513588/1399615832971022389). If you're having trouble finding the thread make sure you have scholar questions viewable.
+
+All sorts of new gear combinations can come up as new patches release.
+Having the best BiS people have found so far in one place means we can at least make the effort of searching through these possibilities collaborative.
+
+## Dawntrail Sets:
+[FRU](<https://xivgear.app/?page=sl%7C75194855-db40-4f20-a034-99f427a2fd34>) ilvl 730
 
 # information 
 

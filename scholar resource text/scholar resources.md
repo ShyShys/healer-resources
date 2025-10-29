@@ -6,11 +6,8 @@
  └ [2.31](https://xivgear.app/?page=sl%7C2a96ac4b-45f7-413b-a509-3cae2e524b78)
  └ [Omni-healer sets](https://discord.com/channels/277897135515762698/1293112246871920700/1293369841020829756)
  └ [SCH OC BiS](https://xivgear.app/?page=sl%7C7b0f1077-9f82-4c63-ad43-e82104c1ea4c)
-<:bceCatClever:593020248626823188> Legacy BiS
- └ [DSR](https://xivgear.app/?page=sl%7C7513a190-7602-408d-9829-71026af81e45) ilvl600
- └ [TOP/Sil'dihn](https://xivgear.app/?page=sl%7Cb0d68e3a-daba-4b3f-865f-e3c7e19c6d23) ilvl 630
- └ [Rokkon/Aloalo](https://xivgear.app/?page=bis%7Csch%7Cendwalker%7Canabaseios) ilvl 660
- └ [FRU 2.5](<https://xivgear.app/?page=sl%7Cc26f2655-c73f-4027-8861-4e22e78286a9&onlySetIndex=0>) | [FRU 2.32](<https://xivgear.app/?page=sl%7Cc26f2655-c73f-4027-8861-4e22e78286a9&onlySetIndex=1>) | [FRU no chaotic](<https://xivgear.app/?page=sl%7Cc26f2655-c73f-4027-8861-4e22e78286a9&onlySetIndex=2>) ilvl 730
+<:bceCatClever:593020248626823188> Dawntrail Ultimate BiS
+ └ [FRU](<https://xivgear.app/?page=sl|75194855-db40-4f20-a034-99f427a2fd34>) ilvl 735
 # <:bceMadWatching:439063847572340756>  [Opener](https://discord.com/channels/277897135515762698/1253396517801168986)  
 # <:bceEatTutu:1270631454111436880>  [Fight Encounters](https://discord.com/channels/277897135515762698/1257942257412214886)
 # <:bceThinkSweat:995181811850285176>  [Guides](https://discord.com/channels/277897135515762698/1253396066125086720)
