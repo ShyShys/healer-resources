@@ -1,6 +1,7 @@
 # Recommended omni healer set
 
-The ilvl 729 general recommended set can easily flex between all healers. Put sps melds on weapon for ast/whm and dh melds on weapon for sch/sge. The sets only show scholar but nothing changes between any of the healer weapons.
+The best omni heal set depends on the healers you play. Scholar wants a spell speed the most out of all of the healer. However all healers do better at certain GCDs here is a list of sets that include your favorite healer combinations. Each set has more information in the description.
 
-[2.5 GCD SCH/SGE](https://xivgear.app/?page=sl%7Cad91a76e-f183-46ba-b2b0-b53816850fe9)
-[2.48 GCD AST/WHM](https://xivgear.app/?page=sl%7C3c22029f-4c42-4feb-ba8e-6cc1df658cec)
+https://xivgear.app/?page=sl|f5aa8cde-86b5-4d2f-b104-1fd03ea859d2 
+
+More information and additional sets [here](https://xivgear.app/?page=sl%7Cac10a7d5-73d2-44bb-a205-d2e6d03e4f51)

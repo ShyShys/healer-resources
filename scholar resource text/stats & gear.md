@@ -7,37 +7,40 @@ Piety is a binary stat, as any more than you needed to not run out of mp was was
 You can find stat tiers here: <https://xivgear.app/math/>
 
 
-# Week 1 BiS
-<https://xivgear.app/?page=sl%7Ce8be474b-b938-422f-b62d-d022e3f20026>
+# __Week 1 BiS__
+With a long Savage delay, this tier presents options to buy tome gear which are part of week 1 BiS but not final BiS.
+Please read below for considerations on how to spend your tomes for week 1 prog.
 
+**Option A** - Tome Chest + Wrist + Ring:
+- On track to final BiS. No tomes "wasted"
+- Lower damage but naturally has higher Piety which has value in prog
+
+**Option B** - Tome Chest + Wrist + Earrings:
+- Diverts 375 tomes to earrings which are not part of SCH's final BiS
+- Higher damage (~0.3-0.9% depending on choice of Piety and GCD speed)
+
+7.4 Week 1 BiS: <https://xivgear.app/?page=sl|431e6073-3723-4da9-8078-25c0fcf679a5>
+If you're not capping tomes week 1 (all these sets use Tome Earrings): <https://xivgear.app/?page=sl|a7cdf253-a7eb-42dd-8fb6-90cf5412b46e>
 <:Blank:822985202111348796>
+
+
 # Savage BiS
+# __Savage BiS__
 
-**2.40 set:** <https://xivgear.app/?page=sl%7Ce429375a-d530-4a70-996a-0782b5ed776a>
-* This is the generally recommended set. It has great alignment for both Aetherflow and Chain Stratagem, and its slower GCD ensures that you will have more MP for raises and GCD healing.
+This tier we're back to using double tome rings to dodge Piety, this naturally reduces our defensive stats since our gear is lower ilvl. It most likely won't matter in the grand scheme of things, outside of a very small niche scenario. That being said we have Max Damage sets vs Max ilvl sets for those who want to ensure they have the lowest chance to die. 
 
-**2.32 set:** <https://xivgear.app/?page=sl%7C2863d2d0-c97c-4d5e-8702-e61875a0d353>
-* This set provides the highest simulated DPS. Despite its simulated DPS, its awkward GCD alignment for Chain Stratagem and its increased MP expenditure prevent it from being the default recommendation. It may not be as easy or comfortable to use as the 2.40 set, but its higher simulated DPS makes it a reasonable consideration.
+We don't have 2.50 sets this tier because of piety reasons. The 2.31 sets sim higher than the 2.40 set however, it loses a lot more dhit and crit opening up 2.40 sets to have a higher chance to have luckier runs.
 
-* This set has relatively good alignment for Aetherflow, but this GCD causes Chain Stratagem to drift by 0.6-0.7s per use. That amount of drift may or may not matter.
+Max Damage: 
+2.40 set: <https://xivgear.app/?page=sl|97a84dd4-31fc-4818-a9b7-ace016b366f1>
+2.31 set: <https://xivgear.app/?page=sl|54d432d1-fb1c-4a3b-9f79-cae19de16cf7>
 
-* If your group's burst is not well timed, the slight Chain Stratagem drift is probably irrelevant. Even if your group's burst is coordinated, raid buffs tend to drift a little over the course of an encounter, so the slight Chain Stratagem drift might not actually cause it to be misaligned.
-
-* If the encounter is short enough (less than 8 or 10 minutes), or if your group ever delays raid buffs because of mechanics or downtime, the slight Chain Stratagem drift should not be significant.
-
-**2.31 set:** <https://xivgear.app/?page=sl%7C2a96ac4b-45f7-413b-a509-3cae2e524b78>
-* This is a suitable alternative for players who prefer a faster GCD without dealing with the slightly awkward GCD alignment of the 2.32 set. Its simulated DPS is slightly worse, but it may be more comfortable to use, depending on your personal preference.
-
-* Even with the faster GCD, this set's MP should still be perfectly sustainable in a somewhat organized environment where you do not expect to cast multiple raises or do a lot of GCD healing.
-
-**Tome buy order:**
-* *2.40:* week 1 gloves > week 2 earring > week 3 wrist > week 4 head > week 6 pants > week 7 ring
-* *2.32:* week 1 gloves > week 2 earring > week 4 pants > week 5 head > week 6 ring
-* *2.31:* week 1 gloves > week 2 earring > week 4 pants >  week 5 ring
-
-
+Max ilvl: 
+2.40 set: <https://xivgear.app/?page=sl|1c97cbb6-a153-4573-baae-b336152db325>
+2.31 set: <https://xivgear.app/?page=sl|a9aeb34c-caf6-489b-9030-a7009c5559c9>
 <:Blank:822985202111348796>
-# Occult Crescent BiS
+
+# __Occult Crescent BiS__
 
 **2.50 set:** <https://xivgear.app/?page=sl%7Cb80d1ba1-175f-4887-bfb6-3f0d01f250b4>
 
@@ -56,7 +59,7 @@ You can find stat tiers here: <https://xivgear.app/math/>
 
 
 <:Blank:822985202111348796> 
-# Ultimate/Criterion Information
+# __Ultimate/Criterion Information__
 These sets are for non current ultimate content. For The Omega Protocol you can sync gear but it is way better to actually take the time to farm gear, you'll squeeze out more damage which can help with groups progging and playing a bit too safe.
 
 **DSR**
@@ -67,18 +70,18 @@ Consider replacing non-SpS accessories with Aug. Radiant earrings, Asphodelos ne
 The 332 strat for Akh Morn's Edge in P7 is a lot more demanding in GCD heals than the 611 strat. You should take more Piety than the minimum if you don't expect heals and mitigation to be planned and executed optimally with 332. Watch PoVs if unsure.
 
 
-## Legacy Ultimate Sets:
+## __Legacy Ultimate Sets:__
 If you're looking for BiS for legacy Ultimates or want to tell us about a better one you've found please check [this thread](https://discord.com/channels/277897135515762698/1399615687592513588/1399615832971022389). If you're having trouble finding the thread make sure you have scholar questions viewable.
 
 All sorts of new gear combinations can come up as new patches release.
 Having the best BiS people have found so far in one place means we can at least make the effort of searching through these possibilities collaborative.
 
-## Dawntrail Sets:
+## __Dawntrail Sets:__
 [FRU](<https://xivgear.app/?page=sl%7C75194855-db40-4f20-a034-99f427a2fd34>) ilvl 730
 
-# information 
+# __information__ 
 
-## 2.5GCD and 2.49 GCD info
+## __2.5GCD and 2.49 GCD info__
 
 In the game, your global cooldown (GCD) timing is determined by when the game code aligns with your frame updates. This happens once per frame. If your next action doesn't sync perfectly with these frames, there can be slight delays in your GCD. This is especially noticeable on lower FPS. Fluctuating frame rates can also make your GCD more unpredictable. Over the course of a battle, these delays could mean that a gear set with a supposed 2.5 GCD might actually function more like a 2.505 GCD. Players with higher FPS will suffer the effects of this issue less but will never be able to fully eliminate them. 
 
@@ -87,11 +90,11 @@ Third-party tools like ReAction help to mitigate this effect by syncing your fra
 If you want to learn more about how FPS affects your gameplay @juwunie made an excellent write up going more in-depth about [this subject.](https://docs.google.com/document/d/1MrihCFNViHOGO7ETedsrA3E02urhByuCqYayT6qPots/edit?usp=sharing)
 
 :blank:
-## Dot Refresh 
+## __Dot Refresh__
 
 If using the Early Refresh(DoT clip) opener: The 2.50 GCD and 2.49 GCD sets will NOT land Biolysis under Chain Stratagem if you use Biolysis AFTER your 6th Energy Drain in the opener (the breakpoint is 2.47 GCD and requires low ping). To fix this, use Biolysis on the same GCD as your 6th Energy Drain.
 
 :Blank:
-## Average DPS of gear vs Parsing
+## __Average DPS of gear vs Parsing__
 <https://docs.google.com/document/d/1hfAt8mtV4P2qU9WZMRsF-jqkdhUCziRuFFZP0bx06no/edit?usp=sharing>
 This write up by <@145919664575217664> helps explain how some gear sets could be better for parsing despite having weaker sim damage and overall performance.

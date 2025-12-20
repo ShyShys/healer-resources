@@ -1,12 +1,13 @@
 --- 
 # <:bceExpert2:477317448039792641>  [Gear, BiS, and Stats](https://discord.com/channels/277897135515762698/1253394673314299955) 
 <:bceCat2Clever2:593020251193606154>  Current Content BiS
- └ [2.40](https://xivgear.app/?page=sl%7C97192835-e665-4d26-a8ac-6694e336dc91)
- └ [2.32](https://xivgear.app/?page=sl%7Cf010309c-8a4e-4428-a928-1fabcbf0c63d)
- └ [2.31](https://xivgear.app/?page=sl%7C2a96ac4b-45f7-413b-a509-3cae2e524b78)
+ └  [Max dmg 2.40](<https://xivgear.app/?page=sl|97a84dd4-31fc-4818-a9b7-ace016b366f1>)
+ └  [Max dmg 2.31](<https://xivgear.app/?page=sl|54d432d1-fb1c-4a3b-9f79-cae19de16cf7>)
+ └  [Max ilvl 2.40](<https://xivgear.app/?page=sl|1c97cbb6-a153-4573-baae-b336152db325>)
+ └  [Max ilvl 2.31](<https://xivgear.app/?page=sl|a9aeb34c-caf6-489b-9030-a7009c5559c9>)
  └ [Omni-healer sets](https://discord.com/channels/277897135515762698/1293112246871920700/1293369841020829756)
- └ [SCH OC BiS](https://xivgear.app/?page=sl%7C7b0f1077-9f82-4c63-ad43-e82104c1ea4c)
-<:bceCatClever:593020248626823188> Dawntrail Ultimate BiS
+<:bceCatClever:593020248626823188> Ultimate BiS
+ └ [Legacy BiS Thread](https://discord.com/channels/277897135515762698/1399615687592513588/1399615832971022389)
  └ [FRU](<https://xivgear.app/?page=sl|75194855-db40-4f20-a034-99f427a2fd34>) ilvl 735
 # <:bceMadWatching:439063847572340756>  [Opener](https://discord.com/channels/277897135515762698/1253396517801168986)  
 # <:bceEatTutu:1270631454111436880>  [Fight Encounters](https://discord.com/channels/277897135515762698/1257942257412214886)
