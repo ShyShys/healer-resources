@@ -77,7 +77,7 @@ All sorts of new gear combinations can come up as new patches release.
 Having the best BiS people have found so far in one place means we can at least make the effort of searching through these possibilities collaborative.
 
 ## __Dawntrail Sets:__
-[FRU](<https://xivgear.app/?page=sl%7C75194855-db40-4f20-a034-99f427a2fd34>) ilvl 730
+[FRU](<https://xivgear.app/?page=sl|6bb5fbca-35e6-4142-8bf0-9b50b80e900e>) ilvl 730
 
 # __information__ 
 

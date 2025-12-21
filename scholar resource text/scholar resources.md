@@ -8,7 +8,7 @@
  └ [Omni-healer sets](https://discord.com/channels/277897135515762698/1293112246871920700/1293369841020829756)
 <:bceCatClever:593020248626823188> Ultimate BiS
  └ [Legacy BiS Thread](https://discord.com/channels/277897135515762698/1399615687592513588/1399615832971022389)
- └ [FRU](<https://xivgear.app/?page=sl|75194855-db40-4f20-a034-99f427a2fd34>) ilvl 735
+ └ [FRU](<https://xivgear.app/?page=sl|6bb5fbca-35e6-4142-8bf0-9b50b80e900e>) ilvl 735
 # <:bceMadWatching:439063847572340756>  [Opener](https://discord.com/channels/277897135515762698/1253396517801168986)  
 # <:bceEatTutu:1270631454111436880>  [Fight Encounters](https://discord.com/channels/277897135515762698/1257942257412214886)
 # <:bceThinkSweat:995181811850285176>  [Guides](https://discord.com/channels/277897135515762698/1253396066125086720)
