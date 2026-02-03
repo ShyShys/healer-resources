@@ -16,7 +16,7 @@
 # <:bceAdventureCat:1077302243138736240>  [Tips & Tricks](https://discord.com/channels/277897135515762698/1253396652581064796)
 # <:bceIronManIAmIMBeecatAvengers:1043934906402738276>  [Bot Commands](https://discord.com/channels/277897135515762698/1253395941654794372)
 # <:bceLove1:439063846892863498>  [Recommended Media](https://discord.com/channels/277897135515762698/1253396107669671968)
-# <:bceWorry:876494652902109234>  [Dawntrail Changes](https://discord.com/channels/277897135515762698/1253396444661022844)
+# <:bceWorry:876494652902109234>  [Major Patch Changes](https://discord.com/channels/277897135515762698/1455976545796493384)
 # <:bceBigNom:993424878101336095>  [Theorycrafting Tools](https://discord.com/channels/277897135515762698/1253396603818082386)
 # <:bceJob1Done:477317449088237589>  [Archive](https://discord.com/channels/277897135515762698/1257942087630983179)
 
